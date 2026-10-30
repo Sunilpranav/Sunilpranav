@@ -134,13 +134,12 @@ Explore my projects, technical skills, and developer profile.
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sunilpranav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilpranav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-
-</div>
+<p align="center">
+  <img height="170" alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Sunilpranav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilpranav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 ### 🧩 LeetCode Progress
 
