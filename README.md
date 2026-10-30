@@ -11,6 +11,9 @@
 
 <a href="https://www.linkedin.com/in/sunilpranav-s21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/sunilpranav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://portfolio-nine-weld-fs3ai3ea54.vercel.app/admin/about">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://k-tek.netlify.app"><img src="https://img.shields.io/badge/Live_Project-K--TEK-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Sunilpranav&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
@@ -134,7 +137,11 @@ Arrays, strings, trees, hash tables, two pointers, math and design problems, org
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunilpranav&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sunilpranav&bg_color=0d1117&color=58a6ff&line=2ea043&point=f0f6fc&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub Contribution Activity"
+/>
 
 </div>
 
