@@ -1,21 +1,20 @@
-<!-- ============ HEADER ============ -->
+ <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sunil%20Pranav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Chatbots%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sunil%20Pranav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+with+Spring+Boot+%2B+React;Creating+offline+AI+chatbots+with+LLaMA+3+%26+FAISS;Solving+DSA+problems+in+Java+every+day;Turning+ideas+into+working+products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+with+Spring+Boot+%2B+React;Developing+AI+applications+with+Python;Solving+DSA+problems+in+Java;Turning+ideas+into+working+products" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sunilpranav-s21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/sunilpranav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://portfolio-nine-weld-fs3ai3ea54.vercel.app/admin/about">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://k-tek.netlify.app"><img src="https://img.shields.io/badge/Live_Project-K--TEK-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Sunilpranav&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://portfolio-nine-weld-fs3ai3ea54.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sunilpranav-s21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/sunilpranav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://k-tek.netlify.app"><img src="https://img.shields.io/badge/Live_Project-K--TEK-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="K-TEK"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Sunilpranav&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -23,13 +22,14 @@
 
 ## 👋 About Me
 
-I'm a developer who likes building things that actually work end to end: from database schema to polished UI.
+I'm a developer who enjoys building practical applications, from backend systems and database design to responsive user interfaces.
 
-- 🔭 Building **VoltFlow**, a full-stack EV charging & energy management platform
-- 🤖 Built an **offline AI chatbot** (semantic search + local LLaMA 3) for a real computer training institute
-- 🧩 Solving **Data Structures & Algorithms** in Java with 200+ commits of practice
-- 🌱 Currently learning: *system design, Docker deployment, and advanced React patterns*
-- 💬 Ask me about: **Java, Spring Boot, React, Python/Flask, chatbots**
+- 🔭 Building **VoltFlow**, a full-stack EV charging and energy management platform.
+- 🤖 Developing AI-powered applications using Python, semantic search, and LLM APIs.
+- 🧩 Practising **Data Structures & Algorithms** using Java.
+- 🌱 Currently learning system design, Docker, Spring Boot, and advanced React.
+- 💬 Ask me about **Java, Spring Boot, React, Python, SQL, and REST APIs**.
+- 🌐 Explore my [**Portfolio Website**](https://portfolio-nine-weld-fs3ai3ea54.vercel.app/).
 
 ---
 
@@ -39,15 +39,15 @@ I'm a developer who likes building things that actually work end to end: from da
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css&theme=dark" />
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=spring,react,flask,tailwind,vite&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=spring,react,flask,tailwind,vite&theme=dark" />
 
 **Databases & DevOps**
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,nginx,git,github,githubactions&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,docker,nginx,git,github,githubactions&theme=dark" />
 
 **Tools**
 
@@ -64,49 +64,55 @@ I'm a developer who likes building things that actually work end to end: from da
 <td width="50%" valign="top">
 
 ### ⚡ [VoltFlow](https://github.com/Sunilpranav/VoltFlow-Smart-EV-Charging-and-Energy-Management-System)
+
 **Smart EV Charging & Energy Management Platform**
 
-Enterprise-style full-stack system with station discovery, live charging telemetry simulation, connector-specific tariffs, digital wallet, maintenance workflows, and tamper-evident audit logs.
+A full-stack platform for EV charging and energy management, featuring station discovery, charging telemetry simulation, connector-specific tariffs, digital wallets, and maintenance workflows.
 
-`Java 17` `Spring Boot 3` `React 19` `TypeScript` `MySQL` `Docker` `JWT`
+`Java 17` `Spring Boot 3` `React` `TypeScript` `MySQL` `Docker` `JWT`
 
-✅ 144 backend + 22 frontend tests passing
-✅ Flyway migrations, role-based access, idempotent payments
+- Role-based authentication and authorization.
+- Wallet and payment workflows.
+- Database migrations using Flyway.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [K TEK Chatbot](https://github.com/Sunilpranav/ktek_chatbot)
-**Offline AI assistant with semantic search**
+### 🤖 [K-TEK Chatbot](https://github.com/Sunilpranav/ktek_chatbot)
 
-Answers FAQs instantly using `sentence-transformers` + `FAISS`, and falls back to a locally-running **LLaMA 3** (Ollama) for anything else. No cloud API needed. Includes Flask web UI and a voice-enabled console mode.
+**AI-powered FAQ assistant**
 
-`Python` `Flask` `FAISS` `LLaMA 3` `Ollama`
+A Flask-based chatbot that uses semantic embeddings and NumPy-based similarity search to retrieve relevant FAQ answers, with Gemini and Groq API integrations.
 
-✅ Confidence-threshold routing (≥ 0.60)
-✅ Live FAQ management at runtime
+`Python` `Flask` `FastEmbed` `NumPy` `Gemini` `Groq`
+
+- Semantic FAQ retrieval.
+- LLM API integrations.
+- FAQ management functionality.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [K TEK Computer Center Website](https://github.com/Sunilpranav/K-tek)
-**Live site for a real training institute**
+### 🌐 [K-TEK Computer Center Website](https://github.com/Sunilpranav/K-tek)
 
-Responsive multi-page website with course info, contact form, and animated slides, deployed on Netlify.
+**Website for a computer training institute**
+
+A responsive website featuring course information, contact details, and interactive user interface components.
 
 `HTML5` `CSS3` `SCSS` `JavaScript`
 
-🔗 [**Live Demo → k-tek.netlify.app**](https://k-tek.netlify.app)
+🔗 [**Live Demo – K-TEK**](https://k-tek.netlify.app)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 [DSA Master Repository](https://github.com/Sunilpranav/soft)
-**Topic-wise Data Structures & Algorithms in Java**
 
-Arrays, strings, trees, hash tables, two pointers, math and design problems, organised by topic and difficulty with 200+ commits.
+**Data Structures & Algorithms in Java**
+
+A topic-wise collection of Java coding solutions for learning problem-solving and preparing for technical interviews.
 
 `Java` `DSA` `LeetCode`
 
@@ -116,12 +122,27 @@ Arrays, strings, trees, hash tables, two pointers, math and design problems, org
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 My Portfolio
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sunilpranav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilpranav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://portfolio-nine-weld-fs3ai3ea54.vercel.app/">
+<img src="https://img.shields.io/badge/Explore_My_Portfolio-Visit_Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/>
+</a>
+
+Explore my projects, technical skills, and developer profile.
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sunilpranav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilpranav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 
 </div>
 
@@ -129,19 +150,19 @@ Arrays, strings, trees, hash tables, two pointers, math and design problems, org
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/sunilpranav?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode stats" />
+<img src="https://leetcard.jacoblin.cool/sunilpranav?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Statistics"/>
 
 </div>
 
 ### 📈 Contribution Activity
 
+View my latest contributions directly on GitHub:
+
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Sunilpranav&bg_color=0d1117&color=58a6ff&line=2ea043&point=f0f6fc&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub Contribution Activity"
-/>
+<a href="https://github.com/Sunilpranav?tab=overview&from=2026-01-01&to=2026-12-31">
+<img src="https://img.shields.io/badge/View-GitHub_Contribution_History-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contribution History"/>
+</a>
 
 </div>
 
@@ -150,9 +171,9 @@ Arrays, strings, trees, hash tables, two pointers, math and design problems, org
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sunilpranav/Sunilpranav/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sunilpranav/Sunilpranav/output/github-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Sunilpranav/Sunilpranav/output/github-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sunilpranav/Sunilpranav/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sunilpranav/Sunilpranav/output/github-snake.svg"/>
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Sunilpranav/Sunilpranav/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -161,11 +182,12 @@ Arrays, strings, trees, hash tables, two pointers, math and design problems, org
 
 ## 🤝 Let's Connect
 
-I'm open to **internships, junior developer roles, and collaboration** on full-stack or AI projects.
+I'm open to **software development internships, junior developer opportunities, and collaboration** on full-stack and AI projects.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sunilpranav-s21/"><img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://portfolio-nine-weld-fs3ai3ea54.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sunilpranav-s21/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 
